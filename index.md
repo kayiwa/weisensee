@@ -9,13 +9,6 @@ title: Weisensee Family Tree
 <div class="mermaid">
 graph TD
     Mary[Mary Weisensee] --- Lloyd[Lloyd Weisensee]
-    ...
-</div>
-
-```mermaid
-graph TD
-    Mary[Mary Weisensee] --- Lloyd[Lloyd Weisensee]
-
     Lloyd --- Lloyd_Jr[Lloyd Jr.]
     Lloyd --- Emily[Emily]
     Lloyd --- Robert[Robert<br>Died age 2-3]
@@ -68,7 +61,7 @@ graph TD
     Joe --- Joe_Child4[Child 4]
     Joe --- Joe_Child5[Child 5]
     Joe --- Joe_Child6[Child 6]
+    class Robert,Marjorie deceased
 
     classDef deceased fill:#f9f9f9,stroke:#999,stroke-dasharray: 5 5
-    class Robert,Marjorie deceased
-```
+</div>
