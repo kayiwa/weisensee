@@ -1,0 +1,5 @@
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+mermaid:
+  version: "9.1.7"
